@@ -1,6 +1,6 @@
 # 리버티게임은 무슨 사이트인가요?
 <div style="text-align:center;">
-  ![로고](/Libertygame_logo.svg)
+  <img src="/Libertygame_logo.svg" />
 </div>
 
 리버티게임은 누구나 다양하고 자유로운 방식으로 웹 게임을 만들 수 있는 미디어위키 기반 사이트입니다.
