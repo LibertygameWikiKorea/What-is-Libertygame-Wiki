@@ -1,4 +1,26 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# 리버티게임은 무슨 사이트인가요?
+<div style="text-align:center;">
+  ![로고](/Libertygame_logo.svg)
+</div>
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+리버티게임은 누구나 다양하고 자유로운 방식으로 웹 게임을 만들 수 있는 미디어위키 기반 사이트입니다.
+
+[백괴사전](https://uncyclopedia.kr)의 하위 프로젝트 중 하나였던 백괴게임을 전신으로 하며, 2019년 10월부터 간단한 HTML5 디자인부터 게임 엔진에 이르기까지 다양한 방법으로 웹 게임을 만들 수 있는 자료와 환경을 제공합니다.
+
+## 주요 제공 컨텐츠
+
+### 다른 사용자가 만든 게임 플레이
+
+### 웹 게임의 기획, 설계, 구현
+
+### 발전소
+
+### 특집 게임
+
+### 오락실과 도움방
+
+### 사이트 운영 관련 토론
+
+## 운영 방식
+
+리버티게임은 어떠한 수익 추구도 없이 순수한 비영리 사이트로 운영되며, 리버티게임의 운영에 직접 관여하는 성인이 아닌 제삼자의 어떤 기부도 받지 않습니다. 또한 리버티게임은 법인 혹은 그와 동격인 단체가 운영하지 않고, [개인](https://github.com/Xen-alpha) 소유 사이트 내에서 소모임과 비슷한 형태로 몇몇 개인이 모여 운영하고 있습니다.
